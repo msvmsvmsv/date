@@ -15,6 +15,7 @@ public class Factory {
             default:
                 new Exception();
         }
+        //branch changes2
         return null;
     }
 }
